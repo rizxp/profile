@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rizxp
 - 👀 I’m interested in Website Technology
-- 🌱 I’m currently learning Javascript Fundamental
+- 🌱 I’m currently learning Javascript
 <!---
 💞️ I’m looking to collaborate on
 How to reach me 
